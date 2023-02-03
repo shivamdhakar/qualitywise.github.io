@@ -349,13 +349,14 @@ button {
     position: absolute;
     left: 28px;
     top: 95%;
-    color: #fbc11d;
+    color: #fe270f;
 }
 
 #my_slider a.carousel-control-prev {
     position: absolute;
     left: 108px;
     top: 95%;
+    color: red;
 }
 
 #my_slider .carousel-control-prev,
